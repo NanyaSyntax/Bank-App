@@ -1,1 +1,1 @@
-# Bank-App
+On this project I created a console application that models a Bank and its operations using OOP concepts and storing data using in memory.
